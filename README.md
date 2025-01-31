@@ -1,1 +1,1 @@
-Technical Test: Bank Kata
+**Technical Test: Bank Kata**
